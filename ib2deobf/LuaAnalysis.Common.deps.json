@@ -1,0 +1,99 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "LuaAnalysis.Common/1.0.0": {
+        "dependencies": {
+          "Loretta.CodeAnalysis.Lua": "0.2.11",
+          "Loretta.CodeAnalysis.Lua.Experimental": "0.2.11",
+          "Tsu": "2.2.2"
+        },
+        "runtime": {
+          "LuaAnalysis.Common.dll": {}
+        }
+      },
+      "Loretta.CodeAnalysis.Common/0.2.11": {
+        "runtime": {
+          "lib/net6.0/Loretta.CodeAnalysis.dll": {
+            "assemblyVersion": "0.2.11.0",
+            "fileVersion": "0.2.11.0",
+            "localPath": "Loretta.CodeAnalysis.dll"
+          }
+        }
+      },
+      "Loretta.CodeAnalysis.Lua/0.2.11": {
+        "dependencies": {
+          "Loretta.CodeAnalysis.Common": "0.2.11",
+          "Tsu": "2.2.2"
+        },
+        "runtime": {
+          "lib/net6.0/Loretta.CodeAnalysis.Lua.dll": {
+            "assemblyVersion": "0.2.11.0",
+            "fileVersion": "0.2.11.0",
+            "localPath": "Loretta.CodeAnalysis.Lua.dll"
+          }
+        }
+      },
+      "Loretta.CodeAnalysis.Lua.Experimental/0.2.11": {
+        "dependencies": {
+          "Loretta.CodeAnalysis.Lua": "0.2.11"
+        },
+        "runtime": {
+          "lib/net6.0/Loretta.CodeAnalysis.Lua.Experimental.dll": {
+            "assemblyVersion": "0.2.11.0",
+            "fileVersion": "0.2.11.0",
+            "localPath": "Loretta.CodeAnalysis.Lua.Experimental.dll"
+          }
+        }
+      },
+      "Tsu/2.2.2": {
+        "runtime": {
+          "lib/net5.0/Tsu.dll": {
+            "assemblyVersion": "2.2.2.0",
+            "fileVersion": "2.2.2.0",
+            "localPath": "Tsu.dll"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LuaAnalysis.Common/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Loretta.CodeAnalysis.Common/0.2.11": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-LkyXfUyIrUFjq9QxF+tnLSlzqE25lF08JYIv0LduytihCSsQ9JgeQbFgqGzunzfLbdj8uF2Sw3gbKoYq1ga5DA==",
+      "path": "loretta.codeanalysis.common/0.2.11",
+      "hashPath": "loretta.codeanalysis.common.0.2.11.nupkg.sha512"
+    },
+    "Loretta.CodeAnalysis.Lua/0.2.11": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-uvQwrHnyrieNJXbJyCLov4mgmDk9v+NksoVGn+qcFnk/MuXMZYL8xfgZkNdAcpJWCMcSd7wWvQwuDOWZn8Xvmg==",
+      "path": "loretta.codeanalysis.lua/0.2.11",
+      "hashPath": "loretta.codeanalysis.lua.0.2.11.nupkg.sha512"
+    },
+    "Loretta.CodeAnalysis.Lua.Experimental/0.2.11": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-CgFGhKQf1dg1pkUN2kV09+5lzJbg62hcq3FYQEqkPl+kCgavkZ4rR8NfqfP3J9sHClwQxyG1Pdxf1v74j1f4hA==",
+      "path": "loretta.codeanalysis.lua.experimental/0.2.11",
+      "hashPath": "loretta.codeanalysis.lua.experimental.0.2.11.nupkg.sha512"
+    },
+    "Tsu/2.2.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-l6svA84RD5MYyZgLFOI0Tj1ssEkcNUi0Q13wfH7VBJxd17o+YL1sgdLEyu3kkBBjvJIgOgszZUPR0vCrZOgBKg==",
+      "path": "tsu/2.2.2",
+      "hashPath": "tsu.2.2.2.nupkg.sha512"
+    }
+  }
+}

@@ -1,0 +1,2 @@
+script_key=""; -- put ur key in between the qutoation marks
+loadstring(game:HttpGet("https://raw.githubusercontent.com/0x681/loader.lua/refs/heads/main/main.lua"))()

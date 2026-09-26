@@ -1,0 +1,5 @@
+if workspace then
+print("workspace", workspace)
+else
+print(not workspace)
+end

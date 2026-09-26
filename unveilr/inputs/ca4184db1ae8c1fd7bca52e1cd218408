@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/kiberblogr-coder/phoenix-hub/main/hub.lua"))()

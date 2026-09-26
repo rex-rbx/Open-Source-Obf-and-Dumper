@@ -1,0 +1,16 @@
+Hello, world!
+/sandbox/2e84761c34014ed7:1: attempt to call a nil value
+[Stack Begin]
+    Script '/sandbox/2e84761c34014ed7', Line 1
+    Script '/sandbox/2e84761c34014ed7', Line 1
+    Script '/sandbox/2e84761c34014ed7', Line 1
+    Script '/sandbox/2e84761c34014ed7', Line 1
+    Script '/sandbox/2e84761c34014ed7', Line 1
+    Script '/sandbox/2e84761c34014ed7', Line 1
+    Script '/sandbox/2e84761c34014ed7', Line 1
+    Script '/sandbox/2e84761c34014ed7', Line 1
+    Script '/sandbox/2e84761c34014ed7', Line 1
+    Script '/sandbox/2e84761c34014ed7', Line 1
+    Script '/sandbox/2e84761c34014ed7', Line 1
+[Stack End]
+

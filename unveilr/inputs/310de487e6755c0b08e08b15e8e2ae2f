@@ -1,0 +1,7 @@
+--[[
+join discord for key | discord.gg/tAhMcb9gqb
+]]
+
+getgenv().KEY = ""
+
+loadstring(game:HttpGet("https://pastebin.com/raw/cTUWD2rn"))()

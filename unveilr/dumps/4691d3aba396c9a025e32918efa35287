@@ -1,0 +1,6562 @@
+-- this file was generated using skidware's unveilr fork
+
+local fenv = getfenv();
+if pcall(function(p1, p2, p3, p4, p5, a, b, c)
+
+end) then 
+    wait(1);
+end;
+local Workspace_Event = workspace.Event;
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+Workspace_Event.PlayerAttribute_RemoteEvent:FireServer({
+    ["Player"] = fenv.player,
+    ["Data"] = {
+        ["Value"] = 1e4
+    },
+    ["TYPE"] = "UpdateEnergy"
+});
+wait(1);
+error("/unveilr/too many operations");

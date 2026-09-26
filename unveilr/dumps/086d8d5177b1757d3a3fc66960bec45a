@@ -1,0 +1,5 @@
+-- this file was generated using skidware's unveilr fork
+
+-- Successfully sent http GET requests to the following site(s): 'https://raw.githubusercontent.com/SRS_UNKNOWN/Baddies-/refs/heads/main/Script'
+game:HttpGet("https://raw.githubusercontent.com/SRS_UNKNOWN/Baddies-/refs/heads/main/Script", true);
+error("No such file or directory (os error 2)");

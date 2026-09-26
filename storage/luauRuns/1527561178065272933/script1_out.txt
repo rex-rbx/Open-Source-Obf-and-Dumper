@@ -1,0 +1,7 @@
+/sandbox/4ed8734b254ee681:1: attempt to index nil with 'service'
+[Stack Begin]
+    Script '/sandbox/4ed8734b254ee681', Line 1
+    Script '/sandbox/4ed8734b254ee681', Line 1
+    Script '/sandbox/4ed8734b254ee681', Line 1
+[Stack End]
+

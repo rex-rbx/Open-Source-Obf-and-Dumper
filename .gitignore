@@ -1,0 +1,16 @@
+start.ps1
+*.log
+*.tmp
+*.bak
+*.cache
+*.swp
+*.pid
+*.lock
+*.env
+*.DS_Store
+*.Thumbs.db
+node_modules
+detections
+startBotSelf.ps1
+Meow.py
+bye.lua

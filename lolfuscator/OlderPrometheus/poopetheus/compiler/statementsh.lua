@@ -1,0 +1,28 @@
+local Ast = require("../ast");
+local AstKind = Ast.AstKind;
+local handlers = {};
+handlers[AstKind.ReturnStatement] = require("./statements/return");
+handlers[AstKind.LocalVariableDeclaration] = require("./statements/local_variable_declaration");
+handlers[AstKind.FunctionCallStatement] = require("./statements/function_call");
+handlers[AstKind.PassSelfFunctionCallStatement] = require("./statements/pass_self_function_call");
+handlers[AstKind.LocalFunctionDeclaration] = require("./statements/local_function_declaration");
+handlers[AstKind.FunctionDeclaration] = require("./statements/function_declaration");
+handlers[AstKind.AssignmentStatement] = require("./statements/assignment");
+handlers[AstKind.IfStatement] = require("./statements/if_statement");
+handlers[AstKind.DoStatement] = require("./statements/do_statement");
+handlers[AstKind.WhileStatement] = require("./statements/while_statement");
+handlers[AstKind.RepeatStatement] = require("./statements/repeat_statement");
+handlers[AstKind.ForStatement] = require("./statements/for_statement");
+handlers[AstKind.ForInStatement] = require("./statements/for_in_statement");
+handlers[AstKind.BreakStatement] = require("./statements/break_statement");
+handlers[AstKind.ContinueStatement] = require("./statements/continue_statement");
+-- Compound statements share one handler
+local compoundHandler = require("./statements/compound");
+handlers[AstKind.CompoundAddStatement] = compoundHandler;
+handlers[AstKind.CompoundSubStatement] = compoundHandler;
+handlers[AstKind.CompoundMulStatement] = compoundHandler;
+handlers[AstKind.CompoundDivStatement] = compoundHandler;
+handlers[AstKind.CompoundModStatement] = compoundHandler;
+handlers[AstKind.CompoundPowStatement] = compoundHandler;
+handlers[AstKind.CompoundConcatStatement] = compoundHandler;
+return handlers;

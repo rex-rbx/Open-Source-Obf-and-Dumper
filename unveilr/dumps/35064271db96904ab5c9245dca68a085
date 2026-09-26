@@ -1,0 +1,5 @@
+-- this file was generated using skidware's unveilr fork
+
+local Parent = script.Parent;
+Parent.CFrame *= CFrame.Angles(0, 0.03490658503988659, 0);
+error("/unveilr/attempt to index nil with 'CFrame'");

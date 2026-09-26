@@ -1,0 +1,15 @@
+-- this file was generated using skidware's unveilr fork
+
+local Buffer_Readu8_Result = buffer.readu8(
+    buffer.fromstring(
+        base64decode("<long string (2896 kilobytes)>")
+    ),
+    0
+);
+local _ = (
+    Buffer_Readu8_Result > 127
+) and (
+    Buffer_Readu8_Result - 128
+);
+local _ = Buffer_Readu8_Result < 128;
+error("/unveilr/invalid argument #1 to 'create' (size out of range)");

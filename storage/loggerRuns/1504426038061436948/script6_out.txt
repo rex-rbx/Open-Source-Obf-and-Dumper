@@ -1,0 +1,51 @@
+-- this file was generated using skidware's unveilr fork
+
+local Pcall_Result_2, Len_Pcall_Result_3;
+local success_3, Pcall_Result = pcall(function(p1_5, p2_5, p3_5, p4_5, a_5, b_5, c_5)
+    success_2, Pcall_Result_2 = pcall(function(p1_4, p2_4, p3_4, p4_4, a_4, b_4, c_4)
+        local _ = Enum or (nil);
+        local _ = debug or (nil);
+        if not game then
+        else 
+
+        end;
+        if ((type(game) == "userdata")) then 
+
+        end;
+        if pcall(function(a_3, b_3, c_3, ...)
+            if pcall(function(p1_2, p2_2, p3_2, p4_2, a_2, b_2, c_2)
+                game();
+                if not pcall(table.concat, {
+                    "ü•ÞÅ¬\26OŠâ\11›œ\1Òql",
+                    "¹úû¢š!½£^Aå\302¯šV",
+                    [0] = game
+                }, "", 1, 2) then 
+                end;
+            end) then 
+            end;
+        end) then 
+        end;
+        return "¹úû¢š!½£^Aå\302¯šV";
+    end);
+    if success_2 then 
+        Len_Pcall_Result_3 = #Pcall_Result_2;
+        local _ = Len_Pcall_Result_3 * 8;
+    end;
+    local _ = Pcall_Result_2 .. "€";
+    if (
+        64 - (
+            (
+                Len_Pcall_Result_3 + 9
+            ) % 64
+        )
+    ) == 64 then
+    else 
+    end;
+end);
+if success_3 then
+else 
+
+end;
+if (not (type(Pcall_Result) == "string")) then 
+end;
+error(Pcall_Result);

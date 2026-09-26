@@ -1,0 +1,4 @@
+-- this file was generated using skidware's unveilr fork
+
+print("Unable to load hookOp on this file, this file ran as it would without hookOp. Reason: --err./mods/hookOp.attempt to index nil with 'text'\nstacktrace:\n./mods/hookOp.luau:566 function readexpr\n./mods/hookOp.luau:604 function readexpr\n./mods/hookOp.luau:338 function readstatementF\n./mods/hookOp.luau:532 function readstatement\n./mods/hookOp.luau:544 function readexpr\n./mods/hookOp.luau:832\n");
+print("hi");

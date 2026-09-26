@@ -1,0 +1,5 @@
+-- this file was generated using skidware's unveilr fork
+
+-- Successfully sent http GET requests to the following site(s): 'https://api.getpolsec.com/scripts/hosted/e5c0718265bd01c242ac169b209958c5059804b26707031eda8c8d662d0e60a4.lua'
+game:HttpGet("https://api.getpolsec.com/scripts/hosted/e5c0718265bd01c242ac169b209958c5059804b26707031eda8c8d662d0e60a4.lua");
+error("No such file or directory (os error 2)");

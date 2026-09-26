@@ -1,0 +1,31 @@
+{
+  "plugins": [
+    "@babel/plugin-transform-template-literals"
+  ],
+  "parserOpts": {
+    "sourceType": "unambiguous",
+    "allowAwaitOutsideFunction": true,
+    "allowImportExportEverywhere": true,
+    "allowReturnOutsideFunction": true,
+    "allowSuperOutsideMethod": true,
+    "allowUndeclaredExports": true,
+    "errorRecovery": true,
+    "plugins": [
+      "asyncGenerators",
+      "classProperties",
+      "classPrivateProperties",
+      "classPrivateMethods",
+      "dynamicImport",
+      "importMeta",
+      "topLevelAwait"
+    ]
+  },
+  "generatorOpts": {
+    "retainLines": false,
+    "compact": false,
+    "comments": false,
+    "jsescOption": {
+      "minimal": false
+    }
+  }
+}

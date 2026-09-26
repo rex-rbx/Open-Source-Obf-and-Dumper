@@ -1,0 +1,16 @@
+local RandomMessage = `[{math.random()}]`
+local Passed = false
+
+game:GetService("LogService").MessageOut:Connect(function(Message, MessageType)
+    if Message == RandomMessage and MessageType == Enum.MessageType.MessageOutput then
+        Passed = true
+    end
+end)
+
+print(RandomMessage)
+
+repeat
+    task.wait()
+until Passed
+-- code past here only runs in normal executors
+print("hi")

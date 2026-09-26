@@ -1,0 +1,9 @@
+/sandbox/5d16420c45105f73:1: attempt to call a nil value
+[Stack Begin]
+    Script '/sandbox/5d16420c45105f73', Line 1
+    Script '/sandbox/5d16420c45105f73', Line 1
+    Script '/sandbox/5d16420c45105f73', Line 1
+    Script '/sandbox/5d16420c45105f73', Line 1
+    Script '/sandbox/5d16420c45105f73', Line 1
+[Stack End]
+

@@ -1,0 +1,22 @@
+local ReplicatedStorage = game:GetService("ReplicatedStorage")
+local Players = game:GetService("Players")
+
+local Event1 = ReplicatedStorage:WaitForChild("PickupBottle")
+local Event2 = ReplicatedStorage:WaitForChild("RemoveLastBottle")
+
+local player = Players.LocalPlayer
+local DELAY_TIME = 0.0001
+
+while true do
+    local success, err = pcall(function()
+        Event1:FireServer("Legendary", 1000, "Zone3")
+        task.wait(0.1) 
+        Event2:FireServer()
+    end)
+    
+    if not success then
+        warn("Błąd podczas wysyłania zdarzenia: " .. tostring(err))
+    end
+    
+    task.wait(DELAY_TIME)
+end

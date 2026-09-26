@@ -1,0 +1,28 @@
+-- this file was generated using skidware's unveilr fork
+
+game:GetService("RunService");
+game:GetService("UserInputService");
+local LocalPlayer = game:GetService("Players").LocalPlayer;
+local CurrentCamera = workspace.CurrentCamera;
+local Character = LocalPlayer.Character;
+if Character then 
+    task.wait(2);
+end;
+Character:WaitForChild("HumanoidRootPart");
+Character:WaitForChild("Head");
+task.delay(2, function(a_0, b_0, c_0)
+    if Character.Parent then 
+        LocalPlayer.CameraMode = Enum.CameraMode.LockFirstPerson;
+        CurrentCamera.CameraType = Enum.CameraType.Scriptable;
+        CurrentCamera.FieldOfView = 120;
+    end;
+end);
+CurrentCamera:GetPropertyChangedSignal("CameraType"):Connect(function(a, b, c)
+    if (CurrentCamera.CameraType ~= Enum.CameraType.Scriptable) then 
+    end;
+end);
+LocalPlayer.CameraMode = Enum.CameraMode.LockFirstPerson;
+CurrentCamera.CameraType = Enum.CameraType.Scriptable;
+CurrentCamera.FieldOfView = 120;
+Character:WaitForChild("Humanoid").AutoRotate = false;
+error("/unveilr/AutoRotate is not a valid member of nil \"Humanoid\"");

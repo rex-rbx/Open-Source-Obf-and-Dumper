@@ -1,0 +1,7 @@
+{
+  "type": "module",
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "luau-web": "^1.4.0"
+  }
+}

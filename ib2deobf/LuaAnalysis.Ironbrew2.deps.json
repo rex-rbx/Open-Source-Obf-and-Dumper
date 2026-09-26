@@ -1,0 +1,258 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "LuaAnalysis.Ironbrew2/1.0.0": {
+        "dependencies": {
+          "KeraLua": "1.4.9",
+          "Loretta.CodeAnalysis.Lua": "0.2.11",
+          "Loretta.CodeAnalysis.Lua.Experimental": "0.2.11",
+          "LuaAnalysis.Common": "1.0.0",
+          "NLua": "1.7.9"
+        },
+        "runtime": {
+          "LuaAnalysis.Ironbrew2.dll": {}
+        }
+      },
+      "KeraLua/1.4.9": {
+        "runtime": {
+          "lib/net8.0/KeraLua.dll": {
+            "assemblyVersion": "1.4.9.0",
+            "fileVersion": "1.4.9.0",
+            "localPath": "KeraLua.dll"
+          }
+        },
+        "runtimeTargets": {
+          "runtimes/android-arm/native/liblua54.so": {
+            "rid": "android-arm",
+            "assetType": "native",
+            "fileVersion": "0.0.0.0",
+            "localPath": "runtimes/android-arm/native/liblua54.so"
+          },
+          "runtimes/android-arm64/native/liblua54.so": {
+            "rid": "android-arm64",
+            "assetType": "native",
+            "fileVersion": "0.0.0.0",
+            "localPath": "runtimes/android-arm64/native/liblua54.so"
+          },
+          "runtimes/android-x64/native/liblua54.so": {
+            "rid": "android-x64",
+            "assetType": "native",
+            "fileVersion": "0.0.0.0",
+            "localPath": "runtimes/android-x64/native/liblua54.so"
+          },
+          "runtimes/android-x86/native/liblua54.so": {
+            "rid": "android-x86",
+            "assetType": "native",
+            "fileVersion": "0.0.0.0",
+            "localPath": "runtimes/android-x86/native/liblua54.so"
+          },
+          "runtimes/ios/native/liblua54.framework/Info.plist": {
+            "rid": "ios",
+            "assetType": "native",
+            "fileVersion": "0.0.0.0",
+            "localPath": "runtimes/ios/native/liblua54.framework/Info.plist"
+          },
+          "runtimes/ios/native/liblua54.framework/liblua54": {
+            "rid": "ios",
+            "assetType": "native",
+            "fileVersion": "0.0.0.0",
+            "localPath": "runtimes/ios/native/liblua54.framework/liblua54"
+          },
+          "runtimes/linux-arm64/native/liblua54.so": {
+            "rid": "linux-arm64",
+            "assetType": "native",
+            "fileVersion": "0.0.0.0",
+            "localPath": "runtimes/linux-arm64/native/liblua54.so"
+          },
+          "runtimes/linux-x64/native/liblua54.so": {
+            "rid": "linux-x64",
+            "assetType": "native",
+            "fileVersion": "0.0.0.0",
+            "localPath": "runtimes/linux-x64/native/liblua54.so"
+          },
+          "runtimes/maccatalyst/native/liblua54.framework/Info.plist": {
+            "rid": "maccatalyst",
+            "assetType": "native",
+            "fileVersion": "0.0.0.0",
+            "localPath": "runtimes/maccatalyst/native/liblua54.framework/Info.plist"
+          },
+          "runtimes/maccatalyst/native/liblua54.framework/liblua54": {
+            "rid": "maccatalyst",
+            "assetType": "native",
+            "fileVersion": "0.0.0.0",
+            "localPath": "runtimes/maccatalyst/native/liblua54.framework/liblua54"
+          },
+          "runtimes/osx/native/liblua54.dylib": {
+            "rid": "osx",
+            "assetType": "native",
+            "fileVersion": "0.0.0.0",
+            "localPath": "runtimes/osx/native/liblua54.dylib"
+          },
+          "runtimes/tvos/native/liblua54.framework/Info.plist": {
+            "rid": "tvos",
+            "assetType": "native",
+            "fileVersion": "0.0.0.0",
+            "localPath": "runtimes/tvos/native/liblua54.framework/Info.plist"
+          },
+          "runtimes/tvos/native/liblua54.framework/liblua54": {
+            "rid": "tvos",
+            "assetType": "native",
+            "fileVersion": "0.0.0.0",
+            "localPath": "runtimes/tvos/native/liblua54.framework/liblua54"
+          },
+          "runtimes/win-arm/native/lua54.dll": {
+            "rid": "win-arm",
+            "assetType": "native",
+            "fileVersion": "5.4.8.0",
+            "localPath": "runtimes/win-arm/native/lua54.dll"
+          },
+          "runtimes/win-arm64/native/lua54.dll": {
+            "rid": "win-arm64",
+            "assetType": "native",
+            "fileVersion": "5.4.8.0",
+            "localPath": "runtimes/win-arm64/native/lua54.dll"
+          },
+          "runtimes/win-x64/native/lua54.dll": {
+            "rid": "win-x64",
+            "assetType": "native",
+            "fileVersion": "5.4.8.0",
+            "localPath": "runtimes/win-x64/native/lua54.dll"
+          },
+          "runtimes/win-x86/native/lua54.dll": {
+            "rid": "win-x86",
+            "assetType": "native",
+            "fileVersion": "5.4.8.0",
+            "localPath": "runtimes/win-x86/native/lua54.dll"
+          }
+        }
+      },
+      "Loretta.CodeAnalysis.Common/0.2.11": {
+        "runtime": {
+          "lib/net6.0/Loretta.CodeAnalysis.dll": {
+            "assemblyVersion": "0.2.11.0",
+            "fileVersion": "0.2.11.0",
+            "localPath": "Loretta.CodeAnalysis.dll"
+          }
+        }
+      },
+      "Loretta.CodeAnalysis.Lua/0.2.11": {
+        "dependencies": {
+          "Loretta.CodeAnalysis.Common": "0.2.11",
+          "Tsu": "2.2.2"
+        },
+        "runtime": {
+          "lib/net6.0/Loretta.CodeAnalysis.Lua.dll": {
+            "assemblyVersion": "0.2.11.0",
+            "fileVersion": "0.2.11.0",
+            "localPath": "Loretta.CodeAnalysis.Lua.dll"
+          }
+        }
+      },
+      "Loretta.CodeAnalysis.Lua.Experimental/0.2.11": {
+        "dependencies": {
+          "Loretta.CodeAnalysis.Lua": "0.2.11"
+        },
+        "runtime": {
+          "lib/net6.0/Loretta.CodeAnalysis.Lua.Experimental.dll": {
+            "assemblyVersion": "0.2.11.0",
+            "fileVersion": "0.2.11.0",
+            "localPath": "Loretta.CodeAnalysis.Lua.Experimental.dll"
+          }
+        }
+      },
+      "NLua/1.7.9": {
+        "dependencies": {
+          "KeraLua": "1.4.9"
+        },
+        "runtime": {
+          "lib/net8.0/NLua.dll": {
+            "assemblyVersion": "1.7.9.0",
+            "fileVersion": "1.7.9.0",
+            "localPath": "NLua.dll"
+          }
+        }
+      },
+      "Tsu/2.2.2": {
+        "runtime": {
+          "lib/net5.0/Tsu.dll": {
+            "assemblyVersion": "2.2.2.0",
+            "fileVersion": "2.2.2.0",
+            "localPath": "Tsu.dll"
+          }
+        }
+      },
+      "LuaAnalysis.Common/1.0.0": {
+        "dependencies": {
+          "Loretta.CodeAnalysis.Lua": "0.2.11",
+          "Loretta.CodeAnalysis.Lua.Experimental": "0.2.11",
+          "Tsu": "2.2.2"
+        },
+        "runtime": {
+          "LuaAnalysis.Common.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LuaAnalysis.Ironbrew2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "KeraLua/1.4.9": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-oxor0U3bFxMRLY9TQ9QjDiiX1ojH2se5ei1T0hsSovqE+gAkC7ucqvApWBoClHUPOOsp/taWtzbZ+ZfP0Q4Nsw==",
+      "path": "keralua/1.4.9",
+      "hashPath": "keralua.1.4.9.nupkg.sha512"
+    },
+    "Loretta.CodeAnalysis.Common/0.2.11": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-LkyXfUyIrUFjq9QxF+tnLSlzqE25lF08JYIv0LduytihCSsQ9JgeQbFgqGzunzfLbdj8uF2Sw3gbKoYq1ga5DA==",
+      "path": "loretta.codeanalysis.common/0.2.11",
+      "hashPath": "loretta.codeanalysis.common.0.2.11.nupkg.sha512"
+    },
+    "Loretta.CodeAnalysis.Lua/0.2.11": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-uvQwrHnyrieNJXbJyCLov4mgmDk9v+NksoVGn+qcFnk/MuXMZYL8xfgZkNdAcpJWCMcSd7wWvQwuDOWZn8Xvmg==",
+      "path": "loretta.codeanalysis.lua/0.2.11",
+      "hashPath": "loretta.codeanalysis.lua.0.2.11.nupkg.sha512"
+    },
+    "Loretta.CodeAnalysis.Lua.Experimental/0.2.11": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-CgFGhKQf1dg1pkUN2kV09+5lzJbg62hcq3FYQEqkPl+kCgavkZ4rR8NfqfP3J9sHClwQxyG1Pdxf1v74j1f4hA==",
+      "path": "loretta.codeanalysis.lua.experimental/0.2.11",
+      "hashPath": "loretta.codeanalysis.lua.experimental.0.2.11.nupkg.sha512"
+    },
+    "NLua/1.7.9": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-fRTEILixMFY6dfidmYacS4qEgUDKJyi8dyYHfiLZAoBxItA9PvBLyIqMwPzqtJY4kHNRbmeoDJNGzeD90US4lg==",
+      "path": "nlua/1.7.9",
+      "hashPath": "nlua.1.7.9.nupkg.sha512"
+    },
+    "Tsu/2.2.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-l6svA84RD5MYyZgLFOI0Tj1ssEkcNUi0Q13wfH7VBJxd17o+YL1sgdLEyu3kkBBjvJIgOgszZUPR0vCrZOgBKg==",
+      "path": "tsu/2.2.2",
+      "hashPath": "tsu.2.2.2.nupkg.sha512"
+    },
+    "LuaAnalysis.Common/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

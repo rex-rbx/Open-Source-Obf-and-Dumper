@@ -1,0 +1,2 @@
+_G.NEOKEY = "";
+loadstring(game:HttpGet("https://raw.githubusercontent.com/xNeoPulse/NeoPulse-Hub/main/NeoPulse%20Hub.lua", true))();

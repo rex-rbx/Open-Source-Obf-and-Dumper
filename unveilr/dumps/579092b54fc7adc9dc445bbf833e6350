@@ -1,0 +1,5 @@
+-- this file was generated using skidware's unveilr fork
+
+-- Successfully sent http GET requests to the following site(s): 'https://encrypt-x.pages.dev/Scripts?Id=1132814805335'
+game:HttpGet("https://encrypt-x.pages.dev/Scripts?Id=1132814805335");
+error("No such file or directory (os error 2)");

@@ -1,0 +1,506 @@
+{
+  "body": [
+    {
+      "expression": {
+        "arguments": [
+          {
+            "loc": {
+              "end": {
+                "column": 21,
+                "line": 1
+              },
+              "start": {
+                "column": 6,
+                "line": 1
+              }
+            },
+            "raw": "'Hello, world!'",
+            "type": "StringLiteral",
+            "value": "Hello, world!"
+          }
+        ],
+        "base": {
+          "isLocal": false,
+          "loc": {
+            "end": {
+              "column": 5,
+              "line": 1
+            },
+            "start": {
+              "column": 0,
+              "line": 1
+            }
+          },
+          "name": "print",
+          "type": "Identifier"
+        },
+        "loc": {
+          "end": {
+            "column": 22,
+            "line": 1
+          },
+          "start": {
+            "column": 0,
+            "line": 1
+          }
+        },
+        "type": "CallExpression"
+      },
+      "loc": {
+        "end": {
+          "column": 22,
+          "line": 1
+        },
+        "start": {
+          "column": 0,
+          "line": 1
+        }
+      },
+      "type": "CallStatement"
+    },
+    {
+      "clauses": [
+        {
+          "body": [
+            {
+              "init": [
+                {
+                  "raw": "351",
+                  "type": "NumericLiteral",
+                  "value": 351
+                }
+              ],
+              "type": "LocalStatement",
+              "variables": [
+                {
+                  "isLocal": true,
+                  "name": "dummy_351",
+                  "type": "Identifier"
+                }
+              ]
+            }
+          ],
+          "condition": {
+            "left": {
+              "raw": "351",
+              "type": "NumericLiteral",
+              "value": 351
+            },
+            "operator": "==",
+            "right": {
+              "raw": "352",
+              "type": "NumericLiteral",
+              "value": 352
+            },
+            "type": "BinaryExpression"
+          },
+          "type": "IfClause"
+        }
+      ],
+      "type": "IfStatement"
+    },
+    {
+      "clauses": [
+        {
+          "body": [
+            {
+              "init": [
+                {
+                  "raw": "810",
+                  "type": "NumericLiteral",
+                  "value": 810
+                }
+              ],
+              "type": "LocalStatement",
+              "variables": [
+                {
+                  "isLocal": true,
+                  "name": "dummy_810",
+                  "type": "Identifier"
+                }
+              ]
+            }
+          ],
+          "condition": {
+            "left": {
+              "raw": "810",
+              "type": "NumericLiteral",
+              "value": 810
+            },
+            "operator": "==",
+            "right": {
+              "raw": "811",
+              "type": "NumericLiteral",
+              "value": 811
+            },
+            "type": "BinaryExpression"
+          },
+          "type": "IfClause"
+        }
+      ],
+      "type": "IfStatement"
+    },
+    {
+      "clauses": [
+        {
+          "body": [
+            {
+              "init": [
+                {
+                  "raw": "43",
+                  "type": "NumericLiteral",
+                  "value": 43
+                }
+              ],
+              "type": "LocalStatement",
+              "variables": [
+                {
+                  "isLocal": true,
+                  "name": "dummy_43",
+                  "type": "Identifier"
+                }
+              ]
+            }
+          ],
+          "condition": {
+            "left": {
+              "raw": "43",
+              "type": "NumericLiteral",
+              "value": 43
+            },
+            "operator": "==",
+            "right": {
+              "raw": "44",
+              "type": "NumericLiteral",
+              "value": 44
+            },
+            "type": "BinaryExpression"
+          },
+          "type": "IfClause"
+        }
+      ],
+      "type": "IfStatement"
+    },
+    {
+      "clauses": [
+        {
+          "body": [
+            {
+              "init": [
+                {
+                  "raw": "820",
+                  "type": "NumericLiteral",
+                  "value": 820
+                }
+              ],
+              "type": "LocalStatement",
+              "variables": [
+                {
+                  "isLocal": true,
+                  "name": "dummy_820",
+                  "type": "Identifier"
+                }
+              ]
+            }
+          ],
+          "condition": {
+            "left": {
+              "raw": "820",
+              "type": "NumericLiteral",
+              "value": 820
+            },
+            "operator": "==",
+            "right": {
+              "raw": "821",
+              "type": "NumericLiteral",
+              "value": 821
+            },
+            "type": "BinaryExpression"
+          },
+          "type": "IfClause"
+        }
+      ],
+      "type": "IfStatement"
+    },
+    {
+      "clauses": [
+        {
+          "body": [
+            {
+              "init": [
+                {
+                  "raw": "946",
+                  "type": "NumericLiteral",
+                  "value": 946
+                }
+              ],
+              "type": "LocalStatement",
+              "variables": [
+                {
+                  "isLocal": true,
+                  "name": "dummy_946",
+                  "type": "Identifier"
+                }
+              ]
+            }
+          ],
+          "condition": {
+            "left": {
+              "raw": "946",
+              "type": "NumericLiteral",
+              "value": 946
+            },
+            "operator": "==",
+            "right": {
+              "raw": "947",
+              "type": "NumericLiteral",
+              "value": 947
+            },
+            "type": "BinaryExpression"
+          },
+          "type": "IfClause"
+        }
+      ],
+      "type": "IfStatement"
+    },
+    {
+      "clauses": [
+        {
+          "body": [
+            {
+              "init": [
+                {
+                  "raw": "789",
+                  "type": "NumericLiteral",
+                  "value": 789
+                }
+              ],
+              "type": "LocalStatement",
+              "variables": [
+                {
+                  "isLocal": true,
+                  "name": "dummy_789",
+                  "type": "Identifier"
+                }
+              ]
+            }
+          ],
+          "condition": {
+            "left": {
+              "raw": "789",
+              "type": "NumericLiteral",
+              "value": 789
+            },
+            "operator": "==",
+            "right": {
+              "raw": "790",
+              "type": "NumericLiteral",
+              "value": 790
+            },
+            "type": "BinaryExpression"
+          },
+          "type": "IfClause"
+        }
+      ],
+      "type": "IfStatement"
+    },
+    {
+      "clauses": [
+        {
+          "body": [
+            {
+              "init": [
+                {
+                  "raw": "323",
+                  "type": "NumericLiteral",
+                  "value": 323
+                }
+              ],
+              "type": "LocalStatement",
+              "variables": [
+                {
+                  "isLocal": true,
+                  "name": "dummy_323",
+                  "type": "Identifier"
+                }
+              ]
+            }
+          ],
+          "condition": {
+            "left": {
+              "raw": "323",
+              "type": "NumericLiteral",
+              "value": 323
+            },
+            "operator": "==",
+            "right": {
+              "raw": "324",
+              "type": "NumericLiteral",
+              "value": 324
+            },
+            "type": "BinaryExpression"
+          },
+          "type": "IfClause"
+        }
+      ],
+      "type": "IfStatement"
+    },
+    {
+      "clauses": [
+        {
+          "body": [
+            {
+              "init": [
+                {
+                  "raw": "785",
+                  "type": "NumericLiteral",
+                  "value": 785
+                }
+              ],
+              "type": "LocalStatement",
+              "variables": [
+                {
+                  "isLocal": true,
+                  "name": "dummy_785",
+                  "type": "Identifier"
+                }
+              ]
+            }
+          ],
+          "condition": {
+            "left": {
+              "raw": "785",
+              "type": "NumericLiteral",
+              "value": 785
+            },
+            "operator": "==",
+            "right": {
+              "raw": "786",
+              "type": "NumericLiteral",
+              "value": 786
+            },
+            "type": "BinaryExpression"
+          },
+          "type": "IfClause"
+        }
+      ],
+      "type": "IfStatement"
+    },
+    {
+      "clauses": [
+        {
+          "body": [
+            {
+              "init": [
+                {
+                  "raw": "920",
+                  "type": "NumericLiteral",
+                  "value": 920
+                }
+              ],
+              "type": "LocalStatement",
+              "variables": [
+                {
+                  "isLocal": true,
+                  "name": "dummy_920",
+                  "type": "Identifier"
+                }
+              ]
+            }
+          ],
+          "condition": {
+            "left": {
+              "raw": "920",
+              "type": "NumericLiteral",
+              "value": 920
+            },
+            "operator": "==",
+            "right": {
+              "raw": "921",
+              "type": "NumericLiteral",
+              "value": 921
+            },
+            "type": "BinaryExpression"
+          },
+          "type": "IfClause"
+        }
+      ],
+      "type": "IfStatement"
+    },
+    {
+      "clauses": [
+        {
+          "body": [
+            {
+              "init": [
+                {
+                  "raw": "555",
+                  "type": "NumericLiteral",
+                  "value": 555
+                }
+              ],
+              "type": "LocalStatement",
+              "variables": [
+                {
+                  "isLocal": true,
+                  "name": "dummy_555",
+                  "type": "Identifier"
+                }
+              ]
+            }
+          ],
+          "condition": {
+            "left": {
+              "raw": "555",
+              "type": "NumericLiteral",
+              "value": 555
+            },
+            "operator": "==",
+            "right": {
+              "raw": "556",
+              "type": "NumericLiteral",
+              "value": 556
+            },
+            "type": "BinaryExpression"
+          },
+          "type": "IfClause"
+        }
+      ],
+      "type": "IfStatement"
+    }
+  ],
+  "comments": [
+    {
+      "raw": "--[[ Jew ]]",
+      "type": "Comment"
+    }
+  ],
+  "globals": [
+    {
+      "isLocal": false,
+      "loc": {
+        "end": {
+          "column": 5,
+          "line": 1
+        },
+        "start": {
+          "column": 0,
+          "line": 1
+        }
+      },
+      "name": "print",
+      "type": "Identifier"
+    }
+  ],
+  "loc": {
+    "end": {
+      "column": 22,
+      "line": 1
+    },
+    "start": {
+      "column": 0,
+      "line": 1
+    }
+  },
+  "type": "Chunk"
+}

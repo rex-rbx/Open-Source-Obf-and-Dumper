@@ -1,0 +1,223 @@
+local Players = game:GetService("Players")
+local RunService = game:GetService("RunService")
+local UserInputService = game:GetService("UserInputService")
+
+local player = Players.LocalPlayer
+local camera = workspace.CurrentCamera
+
+local FOV = 120
+
+local LOOK_SPEED = 0.010
+local SMOOTHING = 0.25
+
+local yaw = 0
+local pitch = 0
+local smoothYaw = 0
+local smoothPitch = 0
+
+local bob = 0
+local rotatingTouch = nil
+local renderConnection
+
+local lastMoveState = false
+
+-- INPUT CONNECTIONS (fix stacking)
+local inputBeganConnection
+local inputChangedConnection
+local inputEndedConnection
+
+local function setupCharacter(character)
+	task.wait(2)
+
+	-- disconnect old inputs (prevents speed stacking)
+	if inputBeganConnection then inputBeganConnection:Disconnect() end
+	if inputChangedConnection then inputChangedConnection:Disconnect() end
+	if inputEndedConnection then inputEndedConnection:Disconnect() end
+
+	local humanoid = character:WaitForChild("Humanoid")
+	local root = character:WaitForChild("HumanoidRootPart")
+	local head = character:WaitForChild("Head")
+
+	local repairing = false
+
+	task.delay(2, function()
+		if character.Parent then
+			player.CameraMode = Enum.CameraMode.LockFirstPerson
+			camera.CameraType = Enum.CameraType.Scriptable
+			camera.FieldOfView = FOV
+		end
+	end)
+
+	camera:GetPropertyChangedSignal("CameraType"):Connect(function()
+		if repairing then return end
+
+		if camera.CameraType ~= Enum.CameraType.Scriptable then
+			repairing = true
+
+			task.delay(2, function()
+				if character.Parent then
+					player.CameraMode = Enum.CameraMode.LockFirstPerson
+					camera.CameraType = Enum.CameraType.Scriptable
+					camera.FieldOfView = FOV
+				end
+				repairing = false
+			end)
+		end
+	end)
+
+	player.CameraMode = Enum.CameraMode.LockFirstPerson
+	camera.CameraType = Enum.CameraType.Scriptable
+	camera.FieldOfView = FOV
+
+	humanoid.AutoRotate = false
+
+	-- INPUT
+	inputBeganConnection = UserInputService.InputBegan:Connect(function(input, processed)
+		if input.UserInputType == Enum.UserInputType.Touch and not processed then
+			if input.Position.X > camera.ViewportSize.X * 0.5 then
+				rotatingTouch = input
+			end
+		end
+	end)
+
+	inputChangedConnection = UserInputService.InputChanged:Connect(function(input)
+		local delta = Vector2.new(input.Delta.X, input.Delta.Y)
+
+		if input.UserInputType == Enum.UserInputType.MouseMovement then
+			yaw -= delta.X * LOOK_SPEED
+			pitch -= delta.Y * LOOK_SPEED
+
+		elseif input.UserInputType == Enum.UserInputType.Touch then
+			if input == rotatingTouch then
+				yaw -= delta.X * LOOK_SPEED
+				pitch -= delta.Y * LOOK_SPEED
+			end
+		end
+
+		pitch = math.clamp(pitch, -1.4, 1.4)
+	end)
+
+	inputEndedConnection = UserInputService.InputEnded:Connect(function(input)
+		if input == rotatingTouch then
+			rotatingTouch = nil
+		end
+	end)
+
+	-- VISIBILITY
+	local function updateVisibility()
+		for _, obj in ipairs(character:GetDescendants()) do
+
+			if obj:IsA("BasePart") then
+				local n = obj.Name
+
+				local visible =
+					n == "Left Arm" or n == "Right Arm" or
+					n == "Left Leg" or n == "Right Leg" or
+					n == "LeftHand" or n == "RightHand" or
+					n == "LeftLowerArm" or n == "RightLowerArm" or
+					n == "LeftUpperArm" or n == "RightUpperArm" or
+					n == "LeftFoot" or n == "RightFoot" or
+					n == "LeftLowerLeg" or n == "RightLowerLeg" or
+					n == "LeftUpperLeg" or n == "RightUpperLeg"
+
+				obj.LocalTransparencyModifier = visible and 0 or 1
+			end
+
+			if obj:IsA("ParticleEmitter") or obj:IsA("Beam") or obj:IsA("Trail") then
+				local parentPart = obj.Parent
+
+				if parentPart and parentPart:IsA("BasePart") then
+					local keepEffect =
+						parentPart.Name == "Left Arm" or
+						parentPart.Name == "Right Arm" or
+						parentPart.Name == "LeftHand" or
+						parentPart.Name == "RightHand" or
+						parentPart.Name == "LeftLowerArm" or
+						parentPart.Name == "RightLowerArm" or
+						parentPart.Name == "LeftUpperArm" or
+						parentPart.Name == "RightUpperArm"
+
+					obj.Enabled = keepEffect
+				end
+			end
+		end
+
+		for _, acc in ipairs(character:GetChildren()) do
+			if acc:IsA("Accessory") then
+				local accType = acc.AccessoryType
+
+				local shouldHide =
+					accType == Enum.AccessoryType.Hair
+					or accType == Enum.AccessoryType.Hat
+					or accType == Enum.AccessoryType.Face
+					or accType == Enum.AccessoryType.Neck
+
+				for _, obj in ipairs(acc:GetDescendants()) do
+					if obj:IsA("BasePart") then
+						obj.LocalTransparencyModifier = shouldHide and 1 or 0
+					end
+				end
+			end
+		end
+
+		head.LocalTransparencyModifier = 1
+	end
+
+	if renderConnection then
+		renderConnection:Disconnect()
+	end
+
+	renderConnection = RunService.RenderStepped:Connect(function(dt)
+		if not character.Parent then return end
+
+		updateVisibility()
+
+		local isMoving = humanoid.MoveDirection.Magnitude > 0.05
+
+		if isMoving ~= lastMoveState then
+			lastMoveState = isMoving
+
+			if isMoving then
+				UserInputService.MouseBehavior = Enum.MouseBehavior.LockCenter
+			else
+				UserInputService.MouseBehavior = Enum.MouseBehavior.Default
+			end
+		end
+
+		if isMoving then
+			local _, cameraYaw, _ = camera.CFrame:ToOrientation()
+			root.CFrame = CFrame.new(root.Position) * CFrame.Angles(0, cameraYaw, 0)
+		end
+
+		if isMoving then
+			bob += dt * 12
+		else
+			bob = 0
+		end
+
+		local bobOffset = math.sin(bob) * 0.08
+
+		smoothYaw = smoothYaw + (yaw - smoothYaw) * SMOOTHING
+		smoothPitch = smoothPitch + (pitch - smoothPitch) * SMOOTHING
+
+		local camPos = head.CFrame.Position + Vector3.new(0, bobOffset, 0)
+
+		local camRot =
+			CFrame.Angles(0, smoothYaw, 0) *
+			CFrame.Angles(smoothPitch, 0, 0)
+
+		camera.CFrame = CFrame.new(camPos) * camRot
+
+		-- HARD FOV LOCK (prevents forced 80 FOV)
+		camera.FieldOfView = FOV
+		if camera.FieldOfView ~= FOV then
+			camera.FieldOfView = FOV
+		end
+	end)
+end
+
+if player.Character then
+	setupCharacter(player.Character)
+end
+
+player.CharacterAdded:Connect(setupCharacter)

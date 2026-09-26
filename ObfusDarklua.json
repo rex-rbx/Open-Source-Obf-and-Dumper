@@ -1,0 +1,14 @@
+{
+    generator: { name: "dense", column_span: Infinity },
+    rules: [
+        'remove_if_expression',
+        'remove_continue',
+        'convert_luau_number',
+        'remove_types',
+        'remove_compound_assignment',
+        'remove_interpolated_string',
+        'make_assignment_local',
+        'remove_floor_division',
+        'convert_square_root_call'
+    ]
+}

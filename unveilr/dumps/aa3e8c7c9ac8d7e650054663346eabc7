@@ -1,0 +1,5 @@
+-- this file was generated using skidware's unveilr fork
+
+-- Successfully sent http GET requests to the following site(s): 'https://cdn.forgehub.store/loader'
+game:HttpGet("https://cdn.forgehub.store/loader");
+error("No such file or directory (os error 2)");

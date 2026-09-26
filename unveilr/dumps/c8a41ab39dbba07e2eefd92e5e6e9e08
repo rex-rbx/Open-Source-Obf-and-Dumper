@@ -1,0 +1,5 @@
+-- this file was generated using skidware's unveilr fork
+
+-- Successfully sent http GET requests to the following site(s): 'https://raw.githubusercontent.com/DihGrinder/BladeBall/refs/heads/main/AutoParry%20Much%20More'
+game:HttpGet("https://raw.githubusercontent.com/DihGrinder/BladeBall/refs/heads/main/AutoParry%20Much%20More");
+error("No such file or directory (os error 2)");

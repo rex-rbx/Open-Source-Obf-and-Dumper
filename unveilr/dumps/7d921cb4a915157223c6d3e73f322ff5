@@ -1,0 +1,5 @@
+-- this file was generated using skidware's unveilr fork
+
+-- Successfully sent http GET requests to the following site(s): 'https://raw.githubusercontent.com/Nanana291/Kronos/refs/heads/main/Loader.lua'
+game:HttpGet("https://raw.githubusercontent.com/Nanana291/Kronos/refs/heads/main/Loader.lua");
+error("No such file or directory (os error 2)");

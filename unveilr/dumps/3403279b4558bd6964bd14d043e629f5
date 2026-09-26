@@ -1,0 +1,5 @@
+-- this file was generated using skidware's unveilr fork
+
+-- Successfully sent http GET requests to the following site(s): 'https://api.luarmor.net/files/v4/loaders/5946add9ab91f1e04cb005346a8b1968.lua'
+game:HttpGet("https://api.luarmor.net/files/v4/loaders/5946add9ab91f1e04cb005346a8b1968.lua");
+error("No such file or directory (os error 2)");

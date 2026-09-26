@@ -1,0 +1,9 @@
+print("Unable to load hookOp on this file, this file ran as it would without hookOp. Reason: " .. "--err@std/syntax/parser.luau:20: parsing failed:\
+(0, 0) - (0, 5): Incomplete statement: expected assignment or a function call\
+\
+stacktrace:\
+[C] function parse\
+@std/syntax/parser.luau:20 function parse\
+./mods/hookOp.luau:827\
+")
+const a = "h";print(a)

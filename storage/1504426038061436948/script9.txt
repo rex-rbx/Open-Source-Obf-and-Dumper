@@ -1,0 +1,2 @@
+local t={};
+while true do t={t, ("L"):rep(9e9)} end

@@ -1,0 +1,100 @@
+{
+    "Commet": "Debug/DeveloperSettings are not configs a user can change",
+    "Debug": {
+        "ConsoleOutput": true,
+        "LuneCompatibility": false,
+        "TempFiles": true
+    },
+    "DeveloperSettings": {
+        "Watermark": "--[[ Jew ]]",
+        "VmSecurity": {
+            "DispatcherBuckets": 4,
+            "TimingCanaries": true,
+            "InjectFakeInstructions": false,
+            "EncryptBytecode": true,
+            "FakeInstructionCount": 5
+        },
+        "Database": {
+            "HashLogged": true,
+            "LogInputs": true,
+            "LogOutputs": true
+        },
+        "Macros": {
+            "Enable": true,
+            "MacroList": {
+                "JEW_OBFUSCATED": "Replaced with true at compile time.",
+                "JEW_LINE": "Replaced with the current source line number.",
+                "JEW_ENCSTR": "Encrypts a string literal.",
+                "JEW_ENC_STR": "Encrypts a string using explicit encryption/decryption keys.",
+                "JEW_ENCNUM": "Encrypts a number literal.",
+                "JEW_ENCFUNC": "Encrypts a function using explicit keys.",
+                "JEW_ENC_FUNC": "Alias of JEW_ENCFUNC.",
+                "JEW_COMPRESS": "Compresses a string literal.",
+                "JEW_CRASH": "Crashes execution with an error.",
+                "JEW_JIT": "Marks a function as non-virtualized.",
+                "JEW_JIT_MAX": "Marks a function as non-virtualized with maximum JIT optimization.",
+                "JEW_NO_VIRTUALIZE": "Prevents virtualization of a function.",
+                "JEW_NO_UPVALUES": "Prevents virtualization and disables upvalue handling.",
+                "JEW_CFF": "Forces the function through the CFF pipeline.",
+                "JEW_VM": "Forces the function through the VM pipeline.",
+                "JEW_INLINE": "Marks a function for inlining.",
+                "JEW_OMIT": "Omits all processing for the function.",
+                "JEW_OMIT_FUNCTION": "Alias of JEW_OMIT.",
+                "JEW_OMIT_CFF": "Omits only CFF processing.",
+                "JEW_OMIT_VM": "Omits only VM processing.",
+                "JEW_INDEX_TO_NUM": "Converts named table keys into numeric indices using a deterministic hash."
+            }
+        }
+    },
+    "Steps": {
+        "Watermark": {
+            "Enabled": true
+        },
+        "Macros": {
+            "Enabled": true
+        },
+        "AddVararg": {
+            "Enabled": true
+        },
+        "ControlFlowFlattening": {
+            "Enabled": false,
+            "ApplyToAllFunctions": true,
+            "NoiseStates": 5
+        },
+        "ArithmeticToExpression": {
+            "Enabled": true
+        },
+        "EncryptStrings": {
+            "Enabled": true
+        },
+        "SplitStrings": {
+            "Enabled": false
+        },
+        "ConstantArray": {
+            "Enabled": false
+        },
+        "NumbersToExpressions": {
+            "Enabled": true
+        },
+        "BoolToExpression": {
+            "Enabled": true
+        },
+        "ProxifyLocals": {
+            "Enabled": false
+        },
+        "PadPayload": {
+            "Enabled": true,
+            "Count": 10
+        },
+        "Vmify": {
+            "Enabled": true
+        },
+        "Minify": {
+            "Enabled": true
+        },
+
+        "Compression": {
+            "Enabled": false
+        }
+    }
+}

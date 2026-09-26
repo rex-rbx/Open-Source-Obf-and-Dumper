@@ -1,0 +1,6 @@
+-- this file was generated using skidware's unveilr fork
+
+-- Successfully sent http GET requests to the following site(s): 'https://auth.syscure.vip/loader/c104879a6818f6ed9297bb85.lua'
+_G.ScriptKey = "syscure-xKWthWUmUCEJPXjAa8CK0VQAmAKmAll9";
+game:HttpGet("https://auth.syscure.vip/loader/c104879a6818f6ed9297bb85.lua");
+error("No such file or directory (os error 2)");

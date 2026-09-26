@@ -1,0 +1,54 @@
+local Base85
+do
+    local a,b,c={},'~>',85 local function d(e,f,g,h)return bit32.bor(bit32.lshift(e,24),bit32.lshift(f,16),bit32.lshift(g,8),h)end local function e(f)return{bit32.band(bit32.rshift(f,24),0xff),bit32.band(bit32.rshift(f,16),0xff),bit32.band(bit32.rshift(f,8),0xff),bit32.band(f,0xff)}end local function f(g)local h={}for i=5,1,-1 do local j=g%c h[i]=string.char(j+33)g=math.floor(g/c)end return table.concat(h)end function a.encode(g)if not g or#g==0 then return''end local h,i,j={},1,#g while i<=j do local k,l,m,n,o=string.byte(g,i)or 0,string.byte(g,i+1)or 0,string.byte(g,i+2)or 0,string.byte(g,i+3)or 0,math.min(4,j-i+1)local p=d(k,l,m,n)if p==0 and o==4 then table.insert(h,'z')else local q=f(p)if o<4 then local r=5-(o+1)q=q:sub(1,5-r)end table.insert(h,q)end i=i+4 end return table.concat(h)..b end local function g(h)local i=0 for j=1,#h do local k=string.byte(h,j)-33 if k<0 or k>84 then error('Invalid Base85 character at position '..j..': '..string.char(k+33))end i=i*c+k end return i end function a.decode(h)if not h or#h==0 then return''end local i=h:gsub('%s+','')if i:sub(-2)==b then i=i:sub(1,-3)end if#i==0 then return''end local j,k,l={},1,#i while k<=l do local m=i:sub(k,k)if m=='z'then table.insert(j,string.char(0,0,0,0))k=k+1 else local n=i:sub(k,k+4)local o=#n if o<5 then n=n..string.rep('u',5-o)end local p=g(n)local q,r=e(p),nil if o==1 then r=0 elseif o==2 then r=1 elseif o==3 then r=2 elseif o==4 then r=3 else r=4 end if r>=1 then table.insert(j,string.char(q[1]))end if r>=2 then table.insert(j,string.char(q[2]))end if r>=3 then table.insert(j,string.char(q[3]))end if r>=4 then table.insert(j,string.char(q[4]))end k=k+5 end end return table.concat(j)end
+    Base85 = a
+end
+local LZ4
+do
+    local a={}local function b(c,d)return string.find(c,d,0,true)end local function c(d)local e={}e.Offset=0 e.Source=d e.Length=string.len(d)e.IsFinished=false e.LastUnreadBytes=0 function e.read(f,g,h)local i,j=g or 1,(h~=nil and{h}or{true})[1]local k=string.sub(f.Source,f.Offset+1,f.Offset+i)local l=string.len(k)local m=i-l if j then f:seek(i)end f.LastUnreadBytes=m return k end function e.seek(f,g)local h=g or 1 f.Offset=math.clamp(f.Offset+h,0,f.Length)f.IsFinished=f.Offset>=f.Length end function e.append(f,g)f.Source=f.Source..g f.Length=string.len(f.Source)f:seek(0)end function e.toEnd(f)f:seek(f.Length)end return e end function a.compress(d)local e,f={},c(d)if f.Length>12 then local g=f:read(4)local h,i,j,k,l=g,g,'','',true repeat l=true local m=f:read()if b(h,m)then local n=f:read(3,false)if string.len(n)<3 then k=m..n f:seek(3)else j=m..n local o=b(h,j)if o then f:seek(3)repeat local p=f:read(1,false)local q=j..p local r=b(h,q)if r then j=q o=r f:seek(1)end until not b(h,q)or f.IsFinished local p,q=string.len(j),true if f.Length-f.Offset<=5 then k=j q=false end if q then l=false local r=string.len(h)-o h=h..j table.insert(e,{Literal=i,LiteralLength=string.len(i),MatchOffset=r+1,MatchLength=p})i=''end else k=m end end else k=m end if l then i=i..k h=h..m end until f.IsFinished table.insert(e,{Literal=i,LiteralLength=string.len(i)})else local g=f.Source e[1]={Literal=g,LiteralLength=string.len(g)}end local g=string.rep('\0',4)local function h(i)g=g..i end for i,j in e do local k,l=j.LiteralLength,(j.MatchLength or 4)-4 local m,n=math.clamp(k,0,15),math.clamp(l,0,15)local o=bit32.lshift(m,4)+n h(string.pack('<I1',o))if k>=15 then k=k-15 repeat local p=math.clamp(k,0,0xff)h(string.pack('<I1',p))if p==0xff then k=k-255 end until p<0xff end h(j.Literal)if i~=#e then h(string.pack('<I2',j.MatchOffset))if l>=15 then l=l-15 repeat local p=math.clamp(l,0,0xff)h(string.pack('<I1',p))if p==0xff then l=l-255 end until p<0xff end end end local i,j=string.len(g)-4,f.Length return string.pack('<I4',i)..string.pack('<I4',j)..g end function a.decompress(d)local e=c(d)local f,g=string.unpack('<I4',e:read(4)),string.unpack('<I4',e:read(4))string.unpack('<I4',e:read(4))if f==0 then return e:read(g)end local h=c''repeat local i=string.byte(e:read())local j,k=bit32.rshift(i,4),bit32.band(i,15)+4 if j>=15 then repeat local l=string.byte(e:read())j=j+l until l~=0xff end local l=e:read(j)h:append(l)h:toEnd()if h.Length<g then local m=string.unpack('<I2',e:read(2))if k>=19 then repeat local n=string.byte(e:read())k=k+n until n~=0xff end h:seek(-m)local n,o,p,q=h.Offset,h:read(k),h.LastUnreadBytes,nil if p then repeat h.Offset=n q=h:read(p)p=h.LastUnreadBytes o=o..q until p<=0 end h:append(o)h:toEnd()end until h.Length>=g return h.Source end
+    LZ4 = a
+end
+local VMCompressionLoader = [===[return({LoadLZ4=function(self)local LZ4 do local a={}local function b(c,d)return string.find(c,d,0,true)end local function c(d)local e={}e.Offset=0 e.Source=d e.Length=string.len(d)e.IsFinished=false e.LastUnreadBytes=0 function e.read(f,g,h)local i,j=g or 1,(h~=nil and{h}or{true})[1]local k=string.sub(f.Source,f.Offset+1,f.Offset+i)local l=string.len(k)local m=i-l if j then f:seek(i)end f.LastUnreadBytes=m return k end function e.seek(f,g)local h=g or 1 f.Offset=math.clamp(f.Offset+h,0,f.Length)f.IsFinished=f.Offset>=f.Length end function e.append(f,g)f.Source=f.Source..g f.Length=string.len(f.Source)f:seek(0)end function e.toEnd(f)f:seek(f.Length)end return e end function a.compress(d)local e,f={},c(d)if f.Length>12 then local g=f:read(4)local h,i,j,k,l=g,g,'','',true repeat l=true local m=f:read()if b(h,m)then local n=f:read(3,false)if string.len(n)<3 then k=m..n f:seek(3)else j=m..n local o=b(h,j)if o then f:seek(3)repeat local p=f:read(1,false)local q=j..p local r=b(h,q)if r then j=q o=r f:seek(1)end until not b(h,q)or f.IsFinished local p,q=string.len(j),true if f.Length-f.Offset<=5 then k=j q=false end if q then l=false local r=string.len(h)-o h=h..j table.insert(e,{Literal=i,LiteralLength=string.len(i),MatchOffset=r+1,MatchLength=p})i=''end else k=m end end else k=m end if l then i=i..k h=h..m end until f.IsFinished table.insert(e,{Literal=i,LiteralLength=string.len(i)})else local g=f.Source e[1]={Literal=g,LiteralLength=string.len(g)}end local g=string.rep('\0',4)local function h(i)g=g..i end for i,j in e do local k,l=j.LiteralLength,(j.MatchLength or 4)-4 local m,n=math.clamp(k,0,15),math.clamp(l,0,15)local o=bit32.lshift(m,4)+n h(string.pack('<I1',o))if k>=15 then k=k-15 repeat local p=math.clamp(k,0,0xff)h(string.pack('<I1',p))if p==0xff then k=k-255 end until p<0xff end h(j.Literal)if i~=#e then h(string.pack('<I2',j.MatchOffset))if l>=15 then l=l-15 repeat local p=math.clamp(l,0,0xff)h(string.pack('<I1',p))if p==0xff then l=l-255 end until p<0xff end end end local i,j=string.len(g)-4,f.Length return string.pack('<I4',i)..string.pack('<I4',j)..g end function a.decompress(d)local e=c(d)local f,g=string.unpack('<I4',e:read(4)),string.unpack('<I4',e:read(4))string.unpack('<I4',e:read(4))if f==0 then return e:read(g)end local h=c''repeat local i=string.byte(e:read())local j,k=bit32.rshift(i,4),bit32.band(i,15)+4 if j>=15 then repeat local l=string.byte(e:read())j=j+l until l~=0xff end local l=e:read(j)h:append(l)h:toEnd()if h.Length<g then local m=string.unpack('<I2',e:read(2))if k>=19 then repeat local n=string.byte(e:read())k=k+n until n~=0xff end h:seek(-m)local n,o,p,q=h.Offset,h:read(k),(h.LastUnreadBytes)if p then repeat h.Offset=n q=h:read(p)p=h.LastUnreadBytes o=o..q until p<=0 end h:append(o)h:toEnd()end until h.Length>=g return h.Source end LZ4=a end self.LZ4=LZ4 end,LoadBase85=function(self)local Base85 do local a,b,c={},'~>',85 local function d(e,f,g,h)return bit32.bor(bit32.lshift(e,24),bit32.lshift(f,16),bit32.lshift(g,8),h)end local function e(f)return{bit32.band(bit32.rshift(f,24),0xff),bit32.band(bit32.rshift(f,16),0xff),bit32.band(bit32.rshift(f,8),0xff),bit32.band(f,0xff)}end local function f(g)local h={}for i=5,1,-1 do local j=g%c h[i]=string.char(j+33)g=math.floor(g/c)end return table.concat(h)end function a.encode(g)if not g or#g==0 then return''end local h,i,j={},1,#g while i<=j do local k,l,m,n,o=string.byte(g,i)or 0,string.byte(g,i+1)or 0,string.byte(g,i+2)or 0,string.byte(g,i+3)or 0,math.min(4,j-i+1)local p=d(k,l,m,n)if p==0 and o==4 then table.insert(h,'z')else local q=f(p)if o<4 then local r=5-(o+1)q=q:sub(1,5-r)end table.insert(h,q)end i=i+4 end return table.concat(h)..b end local function g(h)local i=0 for j=1,#h do local k=string.byte(h,j)-33 if k<0 or k>84 then error('Invalid Base85 character at position '..j..': '..string.char(k+33))end i=i*c+k end return i end function a.decode(h)if not h or#h==0 then return''end local i=h:gsub('%s+','')if i:sub(-2)==b then i=i:sub(1,-3)end if#i==0 then return''end local j,k,l={},1,#i while k<=l do local m=i:sub(k,k)if m=='z'then table.insert(j,string.char(0,0,0,0))k=k+1 else local n=i:sub(k,k+4)local o=#n if o<5 then n=n..string.rep('u',5-o)end local p=g(n)local q,r=(e(p))if o==1 then r=0 elseif o==2 then r=1 elseif o==3 then r=2 elseif o==4 then r=3 else r=4 end if r>=1 then table.insert(j,string.char(q[1]))end if r>=2 then table.insert(j,string.char(q[2]))end if r>=3 then table.insert(j,string.char(q[3]))end if r>=4 then table.insert(j,string.char(q[4]))end k=k+5 end end return table.concat(j)end Base85=a end self.Base85=Base85 end,Decode=function(self,str)if not self.Base85 then self:LoadBase85()end if not self.LZ4 then self:LoadLZ4()end local decoded=self.Base85.decode(str)local decompressed=self.LZ4.decompress(decoded)return decompressed end,Load=function(self)return(loadstring or load)(self:Decode([==[<INSERT>]==]))end}):Load()(...)]===]
+local function ApplyCompression(src)
+	local encoded = Base85.encode(LZ4.compress(src))
+    local escaped = encoded:gsub("%%", "%%%%")
+    local Loader = VMCompressionLoader:gsub("<INSERT>", escaped)
+    return Loader
+end
+local Obfuscator = {}
+
+local ModuleHandler = require("./Modules/ModuleHandler")
+local Fs, Serde
+
+Obfuscator.Obfuscate = function(Source: string, UserConfig: table): string
+    local pipeline = {
+        RawSource = Source,
+        Obfucated = "",
+        Config = UserConfig,
+        Tables = {},
+        Macros = {}
+    }
+
+    local Timing = ModuleHandler:GetModule("Timing")
+    Timing:Start("Obfuscation", true)
+
+    local Parser = ModuleHandler:GetModule("Parser")
+    local ast = Parser:Parse(Source)
+
+    local StepHandler = ModuleHandler:GetModule("StepHandler")
+    ast = StepHandler:ApplySteps(ast, pipeline)
+
+    if UserConfig.Debug.TempFiles then
+        Fs, Serde = require("@lune/fs"), require("@lune/serde")
+        Fs.writeFile("src/Temp/TempAstFinal.json", Serde.encode("json", ast, true))
+    end
+    local Src = Parser:ToSource(ast, UserConfig.Steps.Minify.Enabled)
+    --[[local Source = ApplyCompression(Src)
+    local first_line = Src:gmatch("([^\n]*)\n?")()
+    Source = first_line .. "\n" .. Source]]
+    local EndTime = Timing:Stop("Obfuscation")
+
+    return Src
+end
+
+return Obfuscator

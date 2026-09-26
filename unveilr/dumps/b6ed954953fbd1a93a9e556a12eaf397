@@ -1,0 +1,28 @@
+-- this file was generated using skidware's unveilr fork
+
+local ReplicatedStorage = game:GetService("ReplicatedStorage");
+game:GetService("RunService");
+game:GetService("TweenService");
+game:GetService("Lighting");
+local LocalPlayer = game:GetService("Players").LocalPlayer;
+local Events = ReplicatedStorage:WaitForChild("Events");
+Events:WaitForChild("LightsEvent");
+Events:WaitForChild("SetPassiveMode");
+Events:WaitForChild("FirstPersonEvent");
+for for_key_0, for_val_0 in pairs(getfenv().getgc(true)) do
+    local _ = (type(for_val_0) == "table");
+end;
+local CharacterSettings = ReplicatedStorage:FindFirstChild("CharacterSettings", true);
+if not CharacterSettings then 
+end;
+if CharacterSettings then 
+    require(CharacterSettings);
+end;
+game:GetService("UserInputService").InputBegan:Connect(function(input, gameProcessedEvent, a_0, b_0, c_0)
+    if gameProcessedEvent then 
+    end;
+end);
+LocalPlayer.AncestryChanged:Connect(function(a_0, b_0, c_0)
+    if not LocalPlayer or not LocalPlayer.Parent then 
+    end;
+end);
