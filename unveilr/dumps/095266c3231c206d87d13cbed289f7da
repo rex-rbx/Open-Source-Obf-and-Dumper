@@ -1,6 +1,0 @@
--- this file was generated using skidware's unveilr fork
-
--- Successfully sent http GET requests to the following site(s): 'https://pastebin.com/raw/cTUWD2rn'
-getgenv().KEY = "";
-game:HttpGet("https://pastebin.com/raw/cTUWD2rn");
-error("No such file or directory (os error 2)");

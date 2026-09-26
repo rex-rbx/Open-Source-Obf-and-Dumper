@@ -1,5 +1,0 @@
--- this file was generated using skidware's unveilr fork
-
--- Successfully sent http GET requests to the following site(s): 'https://raw.githubusercontent.com/kiberblogr-coder/phoenix-hub/main/hub.lua'
-game:HttpGet("https://raw.githubusercontent.com/kiberblogr-coder/phoenix-hub/main/hub.lua");
-error("No such file or directory (os error 2)");

@@ -1,5 +1,0 @@
--- this file was generated using skidware's unveilr fork
-
--- Successfully sent http GET requests to the following site(s): 'https://xtrm.dev/api/loader'
-game:HttpGet("https://xtrm.dev/api/loader");
-error("No such file or directory (os error 2)");

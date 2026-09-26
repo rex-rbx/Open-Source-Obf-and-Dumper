@@ -1,3 +1,0 @@
--- this file was generated using skidware's unveilr fork
-
-error("/unveilr/attempt to call a string value");

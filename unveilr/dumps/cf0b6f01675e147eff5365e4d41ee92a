@@ -1,5 +1,0 @@
--- this file was generated using skidware's unveilr fork
-
--- Successfully sent http GET requests to the following site(s): 'https://raw.githubusercontent.com/ImNotWhyLclc/Rendex/refs/heads/main/Loader.luau'
-game:HttpGet("https://raw.githubusercontent.com/ImNotWhyLclc/Rendex/refs/heads/main/Loader.luau");
-error("No such file or directory (os error 2)");

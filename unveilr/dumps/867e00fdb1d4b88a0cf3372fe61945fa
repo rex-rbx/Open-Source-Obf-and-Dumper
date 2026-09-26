@@ -1,5 +1,0 @@
--- this file was generated using skidware's unveilr fork
-
--- Successfully sent http GET requests to the following site(s): 'https://raw.soteria.rip/3275746b49485366'
-game:HttpGet("https://raw.soteria.rip/3275746b49485366");
-error("No such file or directory (os error 2)");

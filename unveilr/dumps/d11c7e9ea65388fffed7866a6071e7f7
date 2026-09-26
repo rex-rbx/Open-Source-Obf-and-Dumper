@@ -1,5 +1,0 @@
--- this file was generated using skidware's unveilr fork
-
--- Successfully sent http GET requests to the following site(s): 'https://gist.githubusercontent.com/asdasdasd1214/0974415772960bde572cc741b8dd2182/raw/2b30c20c0acf24bab345516a89484d889c97a08a/gistfile1.txt'
-game:HttpGet("https://gist.githubusercontent.com/asdasdasd1214/0974415772960bde572cc741b8dd2182/raw/2b30c20c0acf24bab345516a89484d889c97a08a/gistfile1.txt");
-error("No such file or directory (os error 2)");

@@ -1,6 +1,0 @@
--- this file was generated using skidware's unveilr fork
-
--- Successfully sent http GET requests to the following site(s): 'https://robloxscripts.com/raw/r15-to-r6-animations-only'
-getfenv().Loop:getgenv().AutoExecute = true;
-game:HttpGet("https://robloxscripts.com/raw/r15-to-r6-animations-only");
-error("No such file or directory (os error 2)");

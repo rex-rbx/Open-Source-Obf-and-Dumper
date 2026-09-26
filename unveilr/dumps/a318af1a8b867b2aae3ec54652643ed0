@@ -1,5 +1,0 @@
--- this file was generated using skidware's unveilr fork
-
--- Successfully sent http GET requests to the following site(s): 'https://you.whimper.xyz/sources/tekkit/aotr'
-game:HttpGet("https://you.whimper.xyz/sources/tekkit/aotr");
-error("No such file or directory (os error 2)");

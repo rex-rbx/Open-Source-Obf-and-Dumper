@@ -1,5 +1,0 @@
--- this file was generated using skidware's unveilr fork
-
--- Successfully sent http GET requests to the following site(s): 'https://api.jnkie.com/api/v1/luascripts/public/9091a5b315cbb8522473793b0fa19cf4f93166e72f08c9a149328ca5acb290cf/download'
-game:HttpGet("https://api.jnkie.com/api/v1/luascripts/public/9091a5b315cbb8522473793b0fa19cf4f93166e72f08c9a149328ca5acb290cf/download");
-error("No such file or directory (os error 2)");

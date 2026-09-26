@@ -1,5 +1,0 @@
--- this file was generated using skidware's unveilr fork
-
--- Successfully sent http GET requests to the following site(s): 'https://pastefy.app/Krp3iwq7/raw'
-game:HttpGet("https://pastefy.app/Krp3iwq7/raw");
-error("No such file or directory (os error 2)");

@@ -1,5 +1,0 @@
--- this file was generated using skidware's unveilr fork
-
--- Successfully sent http GET requests to the following site(s): 'https://gist.githubusercontent.com/spiritualgaming1123-beep/35cf66da95198d0c5cf33731cd05c80f/raw/1a89d80f2bbb75aae083e0405e89451d42591978/gistfile1.lua'
-game:HttpGet("https://gist.githubusercontent.com/spiritualgaming1123-beep/35cf66da95198d0c5cf33731cd05c80f/raw/1a89d80f2bbb75aae083e0405e89451d42591978/gistfile1.lua");
-error("No such file or directory (os error 2)");

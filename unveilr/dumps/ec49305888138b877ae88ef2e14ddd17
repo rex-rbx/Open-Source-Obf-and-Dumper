@@ -1,5 +1,0 @@
--- this file was generated using skidware's unveilr fork
-
--- Successfully sent http GET requests to the following site(s): 'https://raw.githubusercontent.com/Mete134/TMFScript/refs/heads/main/s'
-game:HttpGet("https://raw.githubusercontent.com/Mete134/TMFScript/refs/heads/main/s");
-error("No such file or directory (os error 2)");

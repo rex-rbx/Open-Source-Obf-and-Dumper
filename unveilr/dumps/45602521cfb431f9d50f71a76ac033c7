@@ -1,5 +1,0 @@
--- this file was generated using skidware's unveilr fork
-
--- Successfully sent http GET requests to the following site(s): 'https://raw.githubusercontent.com/2knoah-glitch/Roblox-scripts/refs/heads/main/Scripts/Gakuran.lua'
-game:HttpGet("https://raw.githubusercontent.com/2knoah-glitch/Roblox-scripts/refs/heads/main/Scripts/Gakuran.lua", true);
-error("No such file or directory (os error 2)");
