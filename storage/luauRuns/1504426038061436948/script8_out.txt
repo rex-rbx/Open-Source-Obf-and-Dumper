@@ -1,2 +1,0 @@
-syntax error: /sandbox/85952226e7cb984a:1: String literal contains malformed escape sequence
-

@@ -1,8 +1,0 @@
-/sandbox/6c49a0bf85797cd4:2: not allowed
-[Stack Begin]
-    Script '[C]' - function 'error'
-    Script '/sandbox/6c49a0bf85797cd4', Line 1
-    Script '/sandbox/6c49a0bf85797cd4', Line 2
-    Script '/sandbox/6c49a0bf85797cd4', Line 2
-[Stack End]
-
