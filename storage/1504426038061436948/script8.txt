@@ -1,1 +1,0 @@
-while true do local t={};t={t, ("L"):rep(9e9)} end

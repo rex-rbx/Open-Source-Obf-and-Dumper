@@ -1,5 +1,0 @@
--- This file was generated with UnveilR V3 at discord.gg/threaded using the testing version.
-
-if workspace then 
-    print("workspace", workspace);
-end;
