@@ -1,1 +1,0 @@
-if math.nan == math.nan then return(nil)() end

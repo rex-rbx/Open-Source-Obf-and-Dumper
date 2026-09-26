@@ -1,6 +1,0 @@
-print("Unable to load hookOp on this file, this file ran as it would without hookOp. Reason: " .. "--errerror requiring module \"@lute/syntax/parser\": could not resolve child component \"syntax\"\
-stacktrace:\
-[C] function require\
-./mods/hookOp.luau:1\
-")
-const a = "h";print(a)

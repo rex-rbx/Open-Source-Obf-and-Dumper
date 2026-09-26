@@ -1,4 +1,0 @@
--- this file was generated using skidware's unveilr fork
-
-print("Unable to load hookOp on this file, this file ran as it would without hookOp. Reason: --err./mods/hookOp.attempt to call a nil value\nstacktrace:\n./mods/hookOp.luau:816\n");
-print("hi");
