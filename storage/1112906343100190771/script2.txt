@@ -1,6 +1,0 @@
-local t = {}
-local function f()
-	table.insert(t, table.clone(t))
-end
-
-while t do task.spawn(f) end
